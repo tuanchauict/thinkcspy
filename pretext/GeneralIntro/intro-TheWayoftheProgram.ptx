@@ -1,20 +1,21 @@
 <?xml version="1.0"?>
 <section xml:id="general-intro_the-way-of-the-program">
   <title>The Way of the Program</title>
-  <p>The goal of this book is to teach you to think like a computer scientist. This
-            way of thinking combines some of the best features of mathematics, engineering,
-            and natural science. Like mathematicians, computer scientists use formal
-            languages to denote ideas (specifically computations). Like engineers, they
-            design things, assembling components into systems and evaluating tradeoffs
-            among alternatives.  Like scientists, they observe the behavior of complex
-            systems, form hypotheses, and test predictions.</p>
-  <p>The single most important skill for a computer scientist is <term>problem
-                solving</term>. Problem solving means the ability to formulate problems, think
-            creatively about solutions, and express a solution clearly and accurately. As
-            it turns out, the process of learning to program is an excellent opportunity to
-            practice problem solving skills. That's why this chapter is called, <em>The Way of
-                the Program</em>.</p>
-  <p>On one level, you will be learning to program, a useful skill by itself. On
-            another level, you will use programming as a means to an end. As we go along,
-            that end will become clearer.</p>
+  <p>Mục đích của cuốn sách này là để dạy cho bạn cách để suy nghĩ giống như một nhà 
+    Khoa học Máy tính. Cách suy nghĩ này kết hợp một số tính năng tốt nhất của toán học,
+    kỹ thuật và khoa học tự nhiên. Giống như các nhà toán học, các nhà khoa học máy 
+    tính sử dụng các ngôn ngữ hình thức để biểu thị các ý tưởng (cụ thể là các phép 
+    tính). Giống như các kỹ sư, họ thiết kế mọi thứ, lắp ráp các thành phần vào hệ 
+    thống và đánh giá sự cân bằng giữa các lựa chọn thay thế. Giống như các nhà khoa 
+    học, họ quan sát hành vi của các hệ thống phức tạp, hình thành giả thuyết và kiểm 
+    tra các dự đoán.</p>
+  <p>Kỹ năng quan trọng nhất đối với một nhà khoa học máy tính là 
+    <term>giải quyết vấn đề</term> (problem solving). Giải quyết vấn đề có nghĩa là 
+    khả năng hình thành vấn đề, suy nghĩ sáng tạo về giải pháp và diễn đạt giải pháp 
+    một cách rõ ràng và chính xác. Hóa ra, quá trình học lập trình là một cơ hội tuyệt 
+    vời để thực hành các kỹ năng giải quyết vấn đề. Đó là lý do tại sao chương này 
+    được gọi là <em>The Way of the Program</em>.</p>
+  <p>Ở một cấp độ, bạn sẽ học lập trình, một kỹ năng thực sự hữu ích. Ở một cấp độ 
+    khác, bạn sẽ sử dụng lập trình như một công cụ để giải quyết vấn đề. Khi chúng ta 
+    đi cùng nhau qua cuốn sách này, điều này sẽ trở nên rõ ràng hơn.</p>
 </section>
